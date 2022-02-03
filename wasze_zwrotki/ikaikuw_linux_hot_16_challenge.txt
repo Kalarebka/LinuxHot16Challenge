@@ -1,0 +1,113 @@
+# AUTOR: IkaIkuw
+# Zasady: https://github.com/ZPXD/LinuxHot16Challenge
+
+# HOT 16
+
+# 1. ls
+# Wylistuje zawartość aktualnego katalogu. Przydatne, kiedy zapomnisz co miałeś zrobić (== cały czas).
+
+# 2. pwd
+# Print Working Directory - pokazuje w jakim katalogu jesteśmy. Przydatne, kiedy zapomnisz gdzie jesteś (== cały czas).
+
+# 3. whoami
+# Wyświetla nazwę użytkownika. Przydatne, kiedy zapomnisz kim jesteś.
+
+# 4. touch
+# stwórz nowy plik - touch nazwapliku
+
+# 5. cd
+# cd <nazwakatalogu> - Przejdź do katalogu, cd .. - 1 katalog w górę
+
+# 6. sudo
+# Dodaj na początku polecenia, żeby wykorzystać uprawnienia administratora
+
+# 7. mkdir
+# Stwórz katalog
+
+# 8. cp
+# Kopiowanie pliku
+
+# 9. rm
+# Usuwanie plików
+
+# 10. mv
+# Przenoszenie lub zmiana nazwy pliku
+
+# 11. man
+# man <jakiekolwiek inne polecenie> - wyświetla instrukcję do tego polecenia
+
+# 12. 
+# 
+
+# 13.
+# 
+
+# 14. 
+# 
+
+# 15. 
+# 
+
+# 16. 
+# 
+
+
+
+# HOT 32
+
+# 17. 
+# 
+
+# 18. 
+# 
+
+# 19. 
+# 
+
+# 20. 
+# 
+
+# 21. 
+# 
+
+# 22. 
+# 
+
+# 23. 
+# 
+
+# 24. 
+# 
+
+# 25. 
+# 
+
+# 26. 
+# 
+
+# 27. 
+# 
+
+# 28.
+# 
+
+# 29. 
+# 
+
+# 30. 
+# 
+
+# 31.
+#
+
+# 32. 
+# 
+
+
+
+
+#### ZPXD:
+# Darmowe roczne zajęcia z programowania. Zapraszajcie:
+# Szturm na AWS - www: https://zajecia-programowania-xd.pl/szturm_na_aws
+# Szturm na AWS - fb: https://www.facebook.com/Szturm-na-AWS-109216351659123
+# Szturm na AWS - discord: https://discord.gg/46JVvHgzqz
